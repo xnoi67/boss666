@@ -1,0 +1,7 @@
+{
+  "entity.bossghost.bow_leg_boss": "ผีพี่บอสขาโก่ง",
+  "item.bossghost.ghost_talisman": "ยันต์เสกผีพี่บอส",
+  "item.bossghost.bow_leg_boss_spawn_egg": "ไข่เสก ผีพี่บอสขาโก่ง",
+  "death.attack.bossghost_surgery": "%1$s ถูกผีพี่บอสผ่าตัดจนขาโก่งและตาย",
+  "death.attack.bossghost_surgery.player": "%1$s ถูกผีพี่บอสผ่าตัดจนขาโก่งและตาย (หนี %2$s ไม่พ้น)"
+}
