@@ -1,3 +1,0 @@
-{"type":"minecraft:crafting_shapeless","category":"misc",
- "ingredients":[{"item":"minecraft:paper"},{"item":"minecraft:bone"},{"item":"minecraft:redstone"}],
- "result":{"item":"bossghost:ghost_talisman","count":1}}
